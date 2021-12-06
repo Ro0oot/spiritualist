@@ -1,0 +1,14 @@
+{
+  "name": "@tianbreznik/spiritualist_yall",
+  "main": "03c0d34336f8019f@750.js",
+  "version": "750.0.0",
+  "homepage": "https://observablehq.com/@tianbreznik/spiritualist_yall",
+  "author": {
+    "name": "Tian Breznik",
+    "url": "https://observablehq.com/@tianbreznik"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
